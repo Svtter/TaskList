@@ -1,5 +1,5 @@
 #!/bin/bash
 
 git add --a
-git commit -m '$(date)'
+git commit -m $(date|awk '{print $1$2$3}')
 git push
