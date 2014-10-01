@@ -1,7 +1,7 @@
 TaskList
 ===
 
-- [] Today
+- [ ] Today
     - [x] English
     - [ ] MATH
     - [x] Code
